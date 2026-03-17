@@ -7,9 +7,8 @@ This repository contains the code and data used in the paper:
 in West Africa: Panel Evidence from ECOWAS Economies"**
 
 ## Repository Structure
-- `data/` - Raw and processed datasets
-- `code/` - Analysis scripts
-- `results/` - Output figures and tables
+panel_clean.csv - Dataset
+panel_final.py - Analysis script
 
 ## Requirements
 - Software: Python 
