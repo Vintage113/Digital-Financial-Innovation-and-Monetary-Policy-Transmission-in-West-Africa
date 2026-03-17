@@ -25,4 +25,4 @@ If you use this code or data, please cite:
 Umeokwobi Richard (2026)  Digital Financial Innovation and Monetary Policy Transmission  in West Africa: Panel Evidence from ECOWAS Economies
 
 ## Contact
-[Your name and email]
+Umeokwobirichard@gmail.com
